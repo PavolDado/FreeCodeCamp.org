@@ -1,2 +1,2 @@
 # FreeCodeCamp.org
-Scientific calculations with Python certificate
+Scientific Computing with Python certificate
